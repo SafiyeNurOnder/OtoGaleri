@@ -1,0 +1,36 @@
+C:\Users\safiye nur önder\Desktop\proje_otoGaleri\Oto Galeri\Oto Galeri\bin\Debug\Oto Galeri.exe.config
+C:\Users\safiye nur önder\Desktop\proje_otoGaleri\Oto Galeri\Oto Galeri\bin\Debug\Oto Galeri.exe
+C:\Users\safiye nur önder\Desktop\proje_otoGaleri\Oto Galeri\Oto Galeri\bin\Debug\Oto Galeri.pdb
+C:\Users\safiye nur önder\Desktop\proje_otoGaleri\Oto Galeri\Oto Galeri\obj\Debug\Oto Galeri.csproj.AssemblyReference.cache
+C:\Users\safiye nur önder\Desktop\proje_otoGaleri\Oto Galeri\Oto Galeri\obj\Debug\Oto Galeri.csproj.SuggestedBindingRedirects.cache
+C:\Users\safiye nur önder\Desktop\proje_otoGaleri\Oto Galeri\Oto Galeri\obj\Debug\Oto_Galeri.frmAnaSayfa.resources
+C:\Users\safiye nur önder\Desktop\proje_otoGaleri\Oto Galeri\Oto Galeri\obj\Debug\Oto_Galeri.frmMusteriEkle.resources
+C:\Users\safiye nur önder\Desktop\proje_otoGaleri\Oto Galeri\Oto Galeri\obj\Debug\Oto_Galeri.Properties.Resources.resources
+C:\Users\safiye nur önder\Desktop\proje_otoGaleri\Oto Galeri\Oto Galeri\obj\Debug\Oto Galeri.csproj.GenerateResource.cache
+C:\Users\safiye nur önder\Desktop\proje_otoGaleri\Oto Galeri\Oto Galeri\obj\Debug\Oto Galeri.csproj.CoreCompileInputs.cache
+C:\Users\safiye nur önder\Desktop\proje_otoGaleri\Oto Galeri\Oto Galeri\obj\Debug\Oto Galeri.exe
+C:\Users\safiye nur önder\Desktop\proje_otoGaleri\Oto Galeri\Oto Galeri\obj\Debug\Oto Galeri.pdb
+C:\Users\safiye nur önder\Desktop\proje_otoGaleri\Oto Galeri\Oto Galeri\obj\Debug\Oto_Galeri.frmAracListesi.resources
+C:\Users\safiye nur önder\Desktop\proje_otoGaleri\Oto Galeri\Oto Galeri\obj\Debug\Oto_Galeri.frmAracEkle.resources
+C:\Users\safiye nur önder\Desktop\proje_otoGaleri\Oto Galeri\Oto Galeri\obj\Debug\Oto_Galeri.frmGiris.resources
+C:\Users\safiye nur önder\Desktop\proje_otoGaleri\Oto Galeri\Oto Galeri\obj\Debug\Oto_Galeri.frmMusteriListesi.resources
+C:\Users\safiye nur önder\Desktop\proje_otoGaleri\Oto Galeri\Oto Galeri\obj\Debug\Oto_Galeri.frmSatisKayitlari.resources
+C:\Users\safiye nur önder\Desktop\proje_otoGaleri\Oto Galeri\Oto Galeri\obj\Debug\Oto_Galeri.frmKayitOl.resources
+C:\Users\safiye nur önder\Desktop\proje_otoGaleri\Oto Galeri -\Oto Galeri\bin\Debug\Oto Galeri.exe.config
+C:\Users\safiye nur önder\Desktop\proje_otoGaleri\Oto Galeri -\Oto Galeri\bin\Debug\Oto Galeri.exe
+C:\Users\safiye nur önder\Desktop\proje_otoGaleri\Oto Galeri -\Oto Galeri\bin\Debug\Oto Galeri.pdb
+C:\Users\safiye nur önder\Desktop\proje_otoGaleri\Oto Galeri -\Oto Galeri\obj\Debug\Oto Galeri.csproj.AssemblyReference.cache
+C:\Users\safiye nur önder\Desktop\proje_otoGaleri\Oto Galeri -\Oto Galeri\obj\Debug\Oto Galeri.csproj.SuggestedBindingRedirects.cache
+C:\Users\safiye nur önder\Desktop\proje_otoGaleri\Oto Galeri -\Oto Galeri\obj\Debug\Oto_Galeri.frmAnaSayfa.resources
+C:\Users\safiye nur önder\Desktop\proje_otoGaleri\Oto Galeri -\Oto Galeri\obj\Debug\Oto_Galeri.frmAracEkle.resources
+C:\Users\safiye nur önder\Desktop\proje_otoGaleri\Oto Galeri -\Oto Galeri\obj\Debug\Oto_Galeri.frmAracListesi.resources
+C:\Users\safiye nur önder\Desktop\proje_otoGaleri\Oto Galeri -\Oto Galeri\obj\Debug\Oto_Galeri.frmGiris.resources
+C:\Users\safiye nur önder\Desktop\proje_otoGaleri\Oto Galeri -\Oto Galeri\obj\Debug\Oto_Galeri.frmKayitOl.resources
+C:\Users\safiye nur önder\Desktop\proje_otoGaleri\Oto Galeri -\Oto Galeri\obj\Debug\Oto_Galeri.frmMusteriEkle.resources
+C:\Users\safiye nur önder\Desktop\proje_otoGaleri\Oto Galeri -\Oto Galeri\obj\Debug\Oto_Galeri.frmSatisKayitlari.resources
+C:\Users\safiye nur önder\Desktop\proje_otoGaleri\Oto Galeri -\Oto Galeri\obj\Debug\Oto_Galeri.frmMusteriListesi.resources
+C:\Users\safiye nur önder\Desktop\proje_otoGaleri\Oto Galeri -\Oto Galeri\obj\Debug\Oto_Galeri.Properties.Resources.resources
+C:\Users\safiye nur önder\Desktop\proje_otoGaleri\Oto Galeri -\Oto Galeri\obj\Debug\Oto Galeri.csproj.GenerateResource.cache
+C:\Users\safiye nur önder\Desktop\proje_otoGaleri\Oto Galeri -\Oto Galeri\obj\Debug\Oto Galeri.csproj.CoreCompileInputs.cache
+C:\Users\safiye nur önder\Desktop\proje_otoGaleri\Oto Galeri -\Oto Galeri\obj\Debug\Oto Galeri.exe
+C:\Users\safiye nur önder\Desktop\proje_otoGaleri\Oto Galeri -\Oto Galeri\obj\Debug\Oto Galeri.pdb
