@@ -26,8 +26,6 @@ namespace Oto_Galeri
         {
             string kullaniciAdi = txtKullaniciAdi.Text;
             string sifre = txtSifre.Text;
-
-
             if(kullaniciAdi!="" && sifre != "")
             {
                 cmd = new SqlCommand();
